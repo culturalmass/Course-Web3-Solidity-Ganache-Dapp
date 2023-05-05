@@ -5,7 +5,7 @@ const styles = {
     "h-screen max-h-screen h-min-screen w-screen bg-blend-multiply  text-white select-none flex flex-col justify-between",
   //Main
   mainWrapper:
-    "w-screen flex items-center justify-center gap-40 mb-80 grid place-items-center",
+    "w-screen flex items-center justify-center gap-40 grid place-items-center",
   uppercontainer:
     "grid grid-cols-3 gap-30 px-2 font-semibold text-xl bg-[#191B1F] w-[50rem] rounded-2xl p-5",
   infocontainer: "gap-4 grid place-items-center",

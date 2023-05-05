@@ -31,7 +31,8 @@ const Main = () => {
 
   return (
     <div className={styles.mainWrapper}>
-      <div className={styles.uppercontainer}>
+      {/* <div className={styles.uppercontainer}> */}
+      <div className="grid grid-cols-3 gap-30 mt-6 px-2 font-semibold text-xl bg-[#191B1F] w-[50rem] rounded-2xl p-5">
         <div className={styles.infocontainer}>
           <div>Current Network</div>
           <div>
